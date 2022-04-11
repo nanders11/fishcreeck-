@@ -1,15 +1,26 @@
-body { background-color: #ffffff;
-      color: #221811;
+* {box-sizing: border-box;}
+body { 
+      background-color: #5280C5;
+      background-image: url(gradientblue.jpg);
+      color: #003366;
        font-family:Verdana;
 }
-#wrapper{background-color: #f0f0f0;
+#wrapper{
+      background-color: #f0f0f0;
          margin-left: auto;
          margin-right: auto;
          width:90%;
+         min-width: 700px;
 }
-header{ background-color :#003366;
-         color: #aec3e3;
-          font-family:Georgia;
+header{ 
+      background-color :#000066;
+      background-image: url(bigfish.gif);
+      background-position: center;
+      background-repeat: no-repeat;
+         color: #F0F0F0;
+          font-family:Georgia, "Times New Roman", serif;
+      padding: 1em;
+      text-align: center;
 }
 h1{line-height: 200%;
 text-indent: 1em;}
