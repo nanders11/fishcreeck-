@@ -22,7 +22,7 @@ header{
       padding: 1em;
       text-align: center;
 }
-header a {text-dectoration: none;}
+header a {text-decoration: none;}
 header a:link { color: #f0f0f0;}
 header a:visited { color: #f0f0f0; }
 header a:hover { color: #AEC3E3; }
